@@ -3,7 +3,7 @@ import speech_recognition as sr
 import pyttsx3
 
 # Sua chave da API Generative AI do Google
-google_api_key = 'AIzaSyBPOhI-dTuCUGZvb7mAuiFHGUzSZTe8D-c'
+google_api_key = 'Sua Chave API'
 # Configura a API Generative AI com sua chave
 genai.configure(api_key=google_api_key)
 
